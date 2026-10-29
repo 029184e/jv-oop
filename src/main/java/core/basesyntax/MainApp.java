@@ -2,7 +2,7 @@ package core.basesyntax;
 
 public class MainApp {
     public static void main(String[] args) {
-        Machine [] array = new Machine[3];
+        Machine[] array = new Machine[3];
         Truck truck = new Truck();
         Bulldozer bulldozer = new Bulldozer();
         Excavator excavator = new Excavator();
@@ -17,6 +17,4 @@ public class MainApp {
 
         }
     }
-
-
 }
